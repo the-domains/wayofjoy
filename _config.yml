@@ -1,6 +1,6 @@
-name: wayofjoy
+name: Way-of-JOY
 favicon: null
-layout_spectrum: 0.5167626924812794
+layout_spectrum: 0.91753
 typography_spectrum: 0.17769161984324455
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.8676010984927416
-  lightness: 0.8676406666636467
+  brandStrength: 0.125
+  lightness: 0.75
   saturation: 0.6076725197490305
   rhythmicContrast: 0.4569639335386455
 purpose: []
