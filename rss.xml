@@ -4,21 +4,21 @@
         <description><![CDATA[Way-of-JOY]]></description>
         <link>https://thegrid.ai/wayofjoy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 22:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 22:15:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wayofjoy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f85a9746-7c6f-41af-8e77-c54315710192.jpg">]]></description>
+            <link>https://thegrid.ai/wayofjoy/1eab0b7d-b0c1-4cb3-a9e2-312a6b89d7d1/index.html</link>
+            <guid isPermaLink="false">1eab0b7d-b0c1-4cb3-a9e2-312a6b89d7d1</guid>
+            <pubDate>Tue, 12 Apr 2016 22:15:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21ca7fbd-79bf-48ac-8527-e9ca0523b309.jpg">]]></description>
             <link>https://thegrid.ai/wayofjoy/true-happiness-is-only-found-inside-you-you-may-not-know-th/index.html</link>
             <guid isPermaLink="false">cc52b8ef-f0d5-4c36-9b1d-f927100dfd93</guid>
             <pubDate>Tue, 12 Apr 2016 22:08:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f85a9746-7c6f-41af-8e77-c54315710192.jpg">]]></description>
-            <link>https://thegrid.ai/wayofjoy/1eab0b7d-b0c1-4cb3-a9e2-312a6b89d7d1/index.html</link>
-            <guid isPermaLink="false">1eab0b7d-b0c1-4cb3-a9e2-312a6b89d7d1</guid>
-            <pubDate>Tue, 12 Apr 2016 19:55:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
